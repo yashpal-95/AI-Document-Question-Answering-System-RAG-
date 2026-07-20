@@ -1,0 +1,22 @@
+# Virtual environment
+myvenv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# ChromaDB data
+chromadb/
+
+# Uploaded PDFs
+uploaded_pdfs/
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
